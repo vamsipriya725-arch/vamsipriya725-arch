@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./assets/cat-github-animation.svg" width="100%" alt="Animated Cats Around GitHub Logo">
-</p>
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:4361EE,100:00F5D4&height=230&section=header&text=Vamsi%20Priya%20Tavva&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Python%20Developer%20%7C%20AI%20Product%20Builder&descSize=20&descAlignY=60" width="100%" alt="header" />
